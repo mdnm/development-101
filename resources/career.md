@@ -1,0 +1,6 @@
+- resume / profile
+- portfolio
+- finding and landing roles
+- interviewing
+- negotiating
+- onboarding
