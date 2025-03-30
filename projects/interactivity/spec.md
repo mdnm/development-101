@@ -3,7 +3,7 @@
 ## Interactive Quiz App
 
 ![Quiz App](./quizapp.png)
-[Test it here](https://quiz-app-topaz-one.vercel.app/)
+[https://mdnm.github.io/development-101/](https://mdnm.github.io/development-101/)
 
 ### Tech Stack
 - HTML
